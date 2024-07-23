@@ -65,7 +65,7 @@ const sr = ScrollReveal({
   scale: 1.1,
   duration: 2000,
   delay: 300,
-  reset: true,
+  // reset: true,
 });
 sr.reveal(`.home_data , .about_data , .about_img, .visit_data`);
 sr.reveal(
